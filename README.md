@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data cleaning , visuallization
 - 📫 How to reach me https://www.reddit.com/u/Acrobatic_While6998/s/aOUyqTdGHC
 - 😄 Pronouns: Him/His/He
-- ⚡ Fun fact: Diamonds don't shine, but they reflect
+- ⚡ Fun fact: Failure is an invitaton to be better!
 
 <!---
 hauzarn/hauzarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
