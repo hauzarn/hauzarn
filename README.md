@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mohau Ramasedi
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, Python, Excel, and PowerBI
-- 💞️ I’m looking to collaborate on data cleaning , visuallization
+- 👋 Hi, I’m Mohau
+- 👀 I’m interested in Data Analytics, and Digital Transformation
+- 🌱 I’m currently learning how to solve and optimise processes with automation and AI
+- 💞️ I’m looking to collaborate on process engineers
 - 📫 You can connect with me on LinkedIn
 - 😄 Pronouns: Him/His/He
 - ⚡ Fun fact: Failure is an invitaton to be better!
